@@ -625,7 +625,7 @@ export default function Product() {
                                         <div className="d-flex px-1">
                                             <div className="mx-1 fw-bold">150$</div>
                                             <div className="mx-1">
-                                                <strike>200$</strike>
+                                                <del>200$</del>
                                             </div>
                                             <div className="mx-1">
                                                 <span className="bg-danger-subtle rounded-pill px-2 py-1"

@@ -374,7 +374,7 @@ export default function Shop() {
                                                             $360
                                                         </div>
                                                         <div className="mx-1">
-                                                            <strike>$420</strike>
+                                                            <del>$420</del>
                                                         </div>
                                                         <div className="mx-1">
                                                             <span
@@ -488,7 +488,7 @@ export default function Shop() {
                                                             $300
                                                         </div>
                                                         <div className="mx-1">
-                                                            <strike>$430</strike>
+                                                            <del>$430</del>
                                                         </div>
                                                         <div className="mx-1">
                                                             <span
@@ -672,7 +672,7 @@ export default function Shop() {
                                                             $150
                                                         </div>
                                                         <div className="mx-1">
-                                                            <strike>$360</strike>
+                                                            <del>$360</del>
                                                         </div>
                                                         <div className="mx-1">
                                                             <span
